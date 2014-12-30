@@ -4,6 +4,7 @@
 ![][0]
 
 * Introduced by Michael Feathers and Robert C. Martin 
+* PowerPoint slides for recap, can refer [here][1].
 
 <h4>Challenge</h4>
 Answer those questions in these files:
@@ -27,3 +28,4 @@ If you using Visual Studio, you can view the question list from Task List window
 
 
 [0]: ../assets/SOLID-Principles/solid-OOP_wall-skills.jpg
+[1]: ../assets/SOLID-Principles/solid-principle.pptx
